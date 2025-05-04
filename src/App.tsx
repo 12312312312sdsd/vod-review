@@ -341,7 +341,7 @@ function App() {
         <div className="min-h-screen flex items-center justify-center p-4">
           <form onSubmit={handleUrlSubmit} className="w-full max-w-2xl">
             <div className={`p-8 rounded-xl shadow-lg ${darkMode ? 'bg-gray-800 text-white' : 'bg-white text-gray-800'}`}>
-              <h1 className="text-3xl font-bold mb-6">On1x&Ivanator VOD Reviewer</h1>
+              <h1 className="text-3xl font-bold mb-6">On1x & Ivanator VOD Reviewer</h1>
               <div className="flex gap-3">
                 <input
                   type="text"
